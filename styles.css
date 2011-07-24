@@ -327,3 +327,48 @@ img {
   clear: both;
 }
 
+
+input.field {
+	padding: 4px;
+	margin: 0;
+	font: 12px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+	border: 1px solid silver;
+	width: 290px;
+}
+
+input.field.short {
+	width: 100px;
+}
+
+input.field.medium {
+	width: 186px;
+}
+
+td.label {
+	width: 100px;
+}
+
+textarea {
+	width: 290px;
+	padding: 2px;
+	font: 12px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+	border: 1px solid silver;
+	margin-left: 107px;
+	height: 10em;
+	margin-top: 2em;
+	margin-bottom: 1em;
+}
+
+form#contact {
+	padding: 10px;
+	width: 400px;
+	margin-left: 200px;
+}
+
+label {
+	font: 12px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+}
+
+p.right {
+	text-align: right;
+}
